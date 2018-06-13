@@ -1,0 +1,4 @@
+[
+  { "value": "user", "label": "Utilisateur" },
+  { "value": "role", "label": "Rôle" }
+]

@@ -1,0 +1,13 @@
+[
+  { "value": "00", "label": "Menu" },
+  { "value": "11", "label": "Créer" },
+  { "value": "12", "label": "Vue" },
+  { "value": "13", "label": "Modifier" },
+  { "value": "14", "label": "Désactiver"  },
+  { "value": "15", "label": "Activer" },
+  { "value": "16", "label": "Marquer" },
+  { "value": "17", "label": "Annuler" },
+  { "value": "18", "label": "Effacer" },
+  { "value": "19", "label": "Voir le changement" },
+  { "value": "1x", "label": "Liste principale" }
+]

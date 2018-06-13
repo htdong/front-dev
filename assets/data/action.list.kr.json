@@ -1,0 +1,13 @@
+[
+  { "value": "00", "label": "메뉴" },
+  { "value": "11", "label": "몹시 떠들어 대다" },
+  { "value": "12", "label": "전망" },
+  { "value": "13", "label": "편집하다" },
+  { "value": "14", "label": "사용 안함"  },
+  { "value": "15", "label": "사용" },
+  { "value": "16", "label": "표" },
+  { "value": "17", "label": "마크 해제" },
+  { "value": "18", "label": "지우다" },
+  { "value": "19", "label": "변경보기" },
+  { "value": "1x", "label": "마스터리스트" }
+]
