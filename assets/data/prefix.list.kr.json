@@ -1,0 +1,4 @@
+[
+  { "value": "user", "label": "사용자" },
+  { "value": "role", "label": "역할" }
+]

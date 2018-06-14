@@ -1,0 +1,13 @@
+[
+  { "value": "00", "label": "メニュー" },
+  { "value": "11", "label": "作成する" },
+  { "value": "12", "label": "ビュー" },
+  { "value": "13", "label": "編集" },
+  { "value": "14", "label": "無効にする"  },
+  { "value": "15", "label": "有効にする" },
+  { "value": "16", "label": "マーク" },
+  { "value": "17", "label": "マークを解除する" },
+  { "value": "18", "label": "削除" },
+  { "value": "19", "label": "ビューの変更" },
+  { "value": "1x", "label": "マスターリスト" }
+]

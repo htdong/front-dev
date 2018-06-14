@@ -1,0 +1,13 @@
+[
+  { "value": "00", "label": "Menu" },
+  { "value": "11", "label": "Tạo mới" },
+  { "value": "12", "label": "Xem" },
+  { "value": "13", "label": "Chỉnh sửa" },
+  { "value": "14", "label": "Bất hoạt"  },
+  { "value": "15", "label": "Kích hoạt" },
+  { "value": "16", "label": "Đánh dấu" },
+  { "value": "17", "label": "Bỏ đánh dấu" },
+  { "value": "18", "label": "Xoá" },
+  { "value": "19", "label": "Xem thay đổi" },
+  { "value": "1x", "label": "Danh sách chính" }
+]

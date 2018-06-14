@@ -1,0 +1,13 @@
+[
+  { "value": "00", "label": "菜单" },
+  { "value": "11", "label": "创建" },
+  { "value": "12", "label": "视图" },
+  { "value": "13", "label": "编辑" },
+  { "value": "14", "label": "禁用"  },
+  { "value": "15", "label": "启用" },
+  { "value": "16", "label": "标记" },
+  { "value": "17", "label": "取消标记" },
+  { "value": "18", "label": "删除" },
+  { "value": "19", "label": "查看更改" },
+  { "value": "1x", "label": "主列表" }
+]
